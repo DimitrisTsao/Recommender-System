@@ -1,0 +1,61 @@
+productId,products,category
+1,Iphone 13 Pro Max,flagship
+2,Iphone 13 Pro,high_end
+3,Iphone 13,high_end
+4,Iphone 13 Mini,high_end
+5,Iphone 12 Pro Max,high_end
+6,Iphone 12 Pro,high_end
+7,Iphone 12,high_end
+8,Iphone 12 Mini,high_end
+9,Iphone 11 Pro Max,mid_range
+10,Iphone 11 Pro,mid_range
+11,Samsung Galaxy S22 Ultra,flagship
+12,Samsung Galaxy S22 Plus,high_end
+13,Samsung Galaxy S22,high_end
+14,Samsung Galaxy S21 Ultra,high_end
+15,Samsung Galaxy S21 Plus,high_end
+16,Samsung Galaxy S21,mid_range
+17,Samsung Galaxy S20 Ultra,high_end
+18,Samsung Galaxy S20 Plus,mid_range
+19,Samsung Galaxy S20 Fe,mid_range
+20,Samsung Galaxy S20,mid_range
+21,Huawei P50 Pro,flagship
+22,Huawei P50,high_end
+23,Huawei P50 Pocket,high_end
+24,Huawei P40 Pro,high_end
+25,Huawei P40,mid_range
+26,Huawei P40 lite,low_end
+27,Huawei P30 Pro,high_end
+28,Huawei P30,mid_range
+29,Huawei Nova 9,low_end
+30,Huawei 8i,low_end
+31,Xiaomi 12 Pro,flagship
+32,Xiaomi 12,high_end
+33,Xiaomi 12X,mid_range
+34,Xiaomi Redmi Note 11 Pro,mid_range
+35,Xiaomi Redmi Note 11,low_end
+36,Xiaomi Redmi Note 10 Pro,low_end
+37,Xiaomi Redmi Note 10,low_end
+38,Xiaomi Redmi Note 9 Pro,low_end
+39,Xiaomi Poco F3,mid_range
+40,Xiaomi Poco M4 Pro,low_end
+41,Google Pixel 6 Pro,flagship
+42,Google Pixel 6a,high_end
+43,Google Pixel 6,mid_range
+44,Google Pixel 5a,mid_range
+45,Google Pixel 5,mid_range
+46,One Plus 10 Pro,flagship
+47,One Plus 9 Pro,high_end
+48,One Plus 8 Pro,high_end
+49,One Plus Nord 2,mid_range
+50,One Plus 8T,mid_range
+51,Realme GT 2 Pro,flagship
+52,Realme GT Neo 2,high_end
+53,Realme GT 2,mid_range
+54,Relame GT,mid_range
+55,Realme 9 Pro Plus,mid_range
+56,Realme 9 Pro,mid_range
+57,Realme 8 Pro,mid_range
+58,Realme Gt Neo 2,mid_range
+59,Realme Gt Neo 3,high_end
+60,Realme Gt Neo 3 Pro,high_end
